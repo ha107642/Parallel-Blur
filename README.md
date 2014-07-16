@@ -1,7 +1,7 @@
-Parallell-Blur
+Parallel-Blur
 ==============
 
-A parallell box blur program made for efficient CPU blurring.
+A parallel box blur program made for efficient CPU blurring.
 
 It is implemented using the Pthreads library in C. 
 For image reading, Quick n' Dirty BMP library was used, which can be found [here](http://qdbmp.sourceforge.net).
